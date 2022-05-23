@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 866f58cc93498834a911e847c0a1c28e, type: 3}
+  m_Name: FastTurretData
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 6877999351533057687, guid: 112f607e74adbd64c9c1fa5a97094b6a, type: 3}
+  reloadDelay: 1
+  bulletData: {fileID: 11400000, guid: 2b127ce680a202849a2d3a26cff5123b, type: 2}
